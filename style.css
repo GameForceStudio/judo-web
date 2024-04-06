@@ -1,0 +1,70 @@
+h1{
+    font-size: 70px;
+    margin: 20px;
+    transition: 1s;
+}
+h1:hover{
+    background-color: black;
+    font-size; 100px;
+}
+
+hi:hover > h2{
+    font-size: 80px;
+
+}
+
+h2{
+    font-size: 40px;
+    transition: 2s;
+
+}
+
+h2:hover{
+    background-color: blue;
+    font-size; 100px;
+}
+
+b{
+    font-size: 30px;
+    margin-left: 20px;
+}
+li{
+    color: white;
+    font-size: 20px;
+    margin-left: 20px;
+    transition: 3s;
+}
+li:hover{
+    background-color: red;
+    font-size: 20px;
+}
+p{
+    position: relative;
+    margin-left: 20px;
+}
+
+.image-1{
+    margin-right: 20px;
+    transition: 3s;
+}
+
+.image-1:hover{
+    margin: auto;
+    width: 500px;
+    height: 790px:
+    padding-top: 20px;
+}
+
+.image-2{
+    position: relative;
+    margin: auto;
+    margin-bottom: 10px;
+    width: 100%;
+    height: 290px;
+
+}
+td{
+    width:20%;
+    color: white;
+    border: 2px solid black;
+}
